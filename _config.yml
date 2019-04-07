@@ -38,7 +38,7 @@ social_media:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  twitter: tcrory
+  # twitter: tcrory
   # unsplash: your_username
   # vk: your_username
   website: http://crory.dev
@@ -61,35 +61,35 @@ topics:
     web_url: https://github.com/topics/c
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png
 
-  - name: Testing
-    web_url: https://github.com/topics/testing
+  # - name: Testing
+  #   web_url: https://github.com/topics/testing
 
-  - name: Raspberry Pi
-    web_url: https://github.com/topics/raspberry-pi
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png
+  # - name: Raspberry Pi
+  #   web_url: https://github.com/topics/raspberry-pi
+  #   image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png
 
-  - name: Arduino
-    web_url: https://github.com/topics/arduino
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png
+  # - name: Arduino
+  #   web_url: https://github.com/topics/arduino
+  #   image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png
 
-  - name: Flask
-    web_url: https://github.com/topics/flask
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png
+  # - name: Flask
+  #   web_url: https://github.com/topics/flask
+  #   image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png
 
-  - name: Django
-    web_url: https://github.com/topics/django
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png
+  # - name: Django
+  #   web_url: https://github.com/topics/django
+  #   image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png
 
-  - name: Jupyter Notebook
-    web_url: https://github.com/topics/jupyter-notebook
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png
+  # - name: Jupyter Notebook
+  #   web_url: https://github.com/topics/jupyter-notebook
+  #   image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png
 
-  - name: scikit-learn
-    web_url: https://github.com/topics/scikit-learn
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png
+  # - name: scikit-learn
+  #   web_url: https://github.com/topics/scikit-learn
+  #   image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png
 
-  - name: Docker
-    web_url: https://github.com/topics/docker
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
+  # - name: Docker
+  #   web_url: https://github.com/topics/docker
+  #   image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
 
 theme: jekyll-theme-midnight
